@@ -61,4 +61,4 @@ function updateDateTime() {
 // Mettre à jour la date et l'heure toutes les secondes et immédiatement au chargement
 updateDateTime(); // Appel initial pour afficher sans attendre 1 seconde
 setInterval(updateDateTime, 1000);
-3. GitHub
+
